@@ -1,2 +1,2 @@
 ﻿# testSecond
-Practice for JS
+Practice for JS and React.
