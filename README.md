@@ -1,2 +1,2 @@
 ﻿# testSecond
-Practice for JS and React, and html.
+Practice for JS and React frontend.
