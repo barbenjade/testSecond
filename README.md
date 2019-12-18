@@ -1,2 +1,2 @@
 ﻿# testSecond
-Practice for JS and React for project site
+Practice for JS and React for project site.
